@@ -1,0 +1,70 @@
+GİZLİLİK POLİTİKASI
+6698 SAYILI KİŞİSEL VERİLERİN KORUNMASI KANUNU HAKKINDA AYDINLATMA METNİ VE GİZLİLİK POLİTİKASI
+1)Veri Sorumlusu
+
+1.1)6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca, kişisel verileriniz; veri sorumlusu olan ShowUp – Ahmet Şahin  (Site-Uygulama /Şahıs Şirketi-Uygulama Sahibi) tarafından aşağıda açıklanan kapsamda işlenebilecektir.
+
+1.2) İşbu Gizlilik Politikası ve KVKK Aydınlatma Metninde, ShowUp tarafından işletilmekte olan platformun Mobil uygulamasının işletilmesi esnasında Site/Mobil uygulama kullanıcıları/üyeleri/ziyaretçileri (“Veri Sahibi”) tarafından şirket ile paylaşılan veya Veri Sahibi’nin Site’nin/Uygulamanın kullanımı sırasında ortaya çıkan kişisel verilerin kullanımına ilişkin koşul ve şartlara yer verilmiştir.
+
+2)Kişisel Veriler Hangi Amaçla İşlenmektedir?
+
+2.1) Toplanan kişisel verileriniz ShowUp ve ShowUp ile iş ilişkisi içerisinde olan kişilerin hukuki ve ticari güvenliğinin sağlanması, ticari ve iş stratejilerinin belirlenmesi ve uygulanması amaçlarıyla KVKK’nın 5 ve 6’ncı maddelerinde belirtilen kişisel veri işleme şartları ve amaçları dâhilinde işlenebilecektir. Toplanan kişisel verileriniz; iş ortaklarımıza, hissedarlarımıza, kanunen yetkili kamu kurumlarına ve özel kişilere KVKK’nın 8 ve 9’uncu maddelerinde belirtilen kişisel veri işleme şartları ve amaçları çerçevesinde aktarılabilecektir.
+
+2.2) Kişisel verileriniz, yukarıda belirtilen amaçlar dışında kullanılmayacak olup, yasal yükümlülükler ve resmi kurum/kuruluşlar haricinde üçüncü kişilerle paylaşılmayacak ya da üçüncü kişilere aktarılmayacaktır. Kişisel verileriniz ancak 7 Nisan 2016 tarihli ve 29677 sayılı Resmî Gazete ’de yayımlanarak yürürlüğe giren 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında belirtilen kişisel veri işleme şartları ve amaçları kapsamında işlenebilmekte ve aktarılabilmektedir.
+
+2.3) Kişisel verileriniz, uygulamaya giriş yapmış olduğunuz sosyal medya platformundan rızanız dahilinde çekilecek ve uygulamanın amacına hizmet eder şekilde diğer uygulama kullanıcıları ile rızanız dahilinde paylaşılabilecektir. Bu metni onaylayarak bu hususlara peşinen muvafakat etmiş olursunuz.
+
+2.4) Uygulama içi satın alım söz konusu olduğunda, özel nitelikte kişisel verileriniz olan kart bilgileri gibi bilgiler veri sorumlusu ShowUp / Ahmet ŞAHİN tarafından işlenmez ve saklanmaz. Satın alımlar Google  – Apple tarafından yönetilmektedir ve Site-Uygulama Sahibinin veri işlememesi ve saklamaması nedeni ile bu hususlarda bir sorumluluğu bulunmamaktadır.
+
+3)Kişisel Veri nedir?
+
+3.1) ShowUp’in işlediği kişisel verileriniz aşağıda belirtilen şekilde Kişisel Verilerin Korunması Kanunu’na belirlenen esaslar doğrultusunda yazılmış olup. “kişisel veri” ifadesi bunlarla sınırlı olmamakla birlikte aşağıda yer alan bilgileri kapsamaktadır; Kimlik ve İletişim Bilgisi: ad, soyad, telefon, adres, işyeri bilgisi, e-posta adresi , Kullanıcı Bilgisi, Kullanıcı İşlem Bilgisi ve Finansal Bilgi: üyelik bilgileri, üyelik ID numarası, Site-Uygulama Sahibinin hizmetlerinden yararlandığınız tarih ve saate ilişkin veriler, Site-Uygulama Sahibi veya Yardım ile iletişime geçme nedenleriniz, Site üzerinde arama yaparken kullandığınız terimler , yorumlarınız, kullanım sırasında oluşan hatalar, fatura ve ödeme bilgisi, bakiye bilgisi (kullanıcıya gönderilen faturalar ve kullanıcılardan alınan ödemelere ait dekont örnekleri, fatura numarası, fatura tutarı, fatura kesim tarihi gibi veriler.) Lokasyon Bilgisi, İşlem Güvenliği Bilgisi: log in credential bilgileri, parola bilgileri, uygulamayı kullanma sıklığınıza ilişkin raporlar ve değerlendirmeler, hedefleme bilgileri, çerez (cookie) kayıtları vb. bilgiler, Talep/Şikayet Yönetimi Bilgisi, Site üzerinden yaptığınız talep ve şikayetler, Risk Yönetimi Bilgisi: IP adresi
+ 
+3.2) Kanunun 3. ve 7. maddeleri çerçevesinde anonim hale getirilen veriler, anılan kanun hükümleri uyarınca kişisel veri olarak kabul edilmeyecek ve bu verilere ilişkin işleme faaliyetleri işbu Gizlilik Politikası hükümleri ile bağlı olmaksızın gerçekleştirecektir. (Verilerinizin işlenip işlenmediği konusunda başvuru konusunda bkz : BÖLÜM 2 )
+
+4)Verilerinizin Kullanım Amacı Nedir?
+
+4.1)Site-Uygulama Sahibi ShowUp ile paylaştığınız kişisel verileriniz, Site-Uygulama Sahibi ve Mobil uygulama üzerinden sağlanan hizmetlerden faydalanabilmeniz için, Site-Uygulamaya üyelik kaydınızın gerçekleştirilmesi, üyelik kaydına ilişkin güncellemelerin yapılması, Site-Uygulama Sahibinin sunduğu ve Site-Uygulama üzerinden sunulan hizmetlerin iyileştirilmesi yeni hizmetlerin tanıtılması ve bu doğrultuda tarafınıza gerekli bilgilendirmelerin yapılması dahil ticari faaliyetlerinin yürütülmesi, ticari ve iş stratejilerinin belirlenmesi ve uygulanması, Site-Uygulama Sahibi ve Site-Uygulama Sahibi ile iş ilişkisi içinde olan kişilerin hukuki ve ticari güvenliğinin temininin sağlanması ve bu kapsamda tarafınıza gerekli bilgilendirilmelerin yapılması ve bu faaliyetlerin doğasından kaynaklanan yükümlülüklerin yerine getirilmesi için işlenebilir.
+
+4.2) Söz konusu kişisel bilgiler öncelikle sizinle iletişime geçmek amacıyla toplanmaktadır. Mobil uygulama üzerindeki deneyiminizi iyileştirmek, iletişim yönetimi sürecine ilişkin değerlendirme yapılması, memnuniyet araştırmalarının yapılması gibi müşteri memnuniyeti temelli kullanmak üzere verileriniz işlendiği gibi işlenen bu veriler şirket içi raporlama ve iş geliştirme faaliyetleri kapsamında da kullanılabilecektir. Ayrıca kimliğiniz ifşa edilmeksizin anonim biçimde çeşitli istatistiksel değerlendirmeler yapma, veri tabanı oluşturma ve pazar araştırmalarında bulunma amacıyla da kullanılabilecektir.
+
+4.3) Kanunu’nun 5 ve 8. maddeleri uyarınca ve/veya ilgili mevzuattaki istisnaların varlığı halinde kişisel verileri Veri Sahiplerinin ayrıca rızası gerekmeksizin Site-Uygulama Sahibi işleyebilecek ve üçüncü kişilerle paylaşabilecektir. Bu durumların en temel olanları aşağıda belirtilmiştir: Kanunlarda açıkça öngörülmesi, Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, Veri Sahibi ile Site-Uygulama Sahibi arasında herhangi bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, kişisel verilerin işlenmesinin gerekli olması, Site-Uygulama Sahibinin hukuki yükümlülüklerini yerine getirebilmesi için zorunlu olması, Veri Sahibi’nin kendisi tarafından alenileştirilmiş olması, Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, Veri Sahibi’nin temel hak ve özgürlüklerine zarar vermemek kaydıyla Site-Uygulama Sahibinin meşru menfaatleri için veri işlenmesinin zorunlu olması.
+
+4.4) Veri toplama işlemi için Site-Uygulama Sahibi çerez (Cookie) kullanabilecek ve bu kapsamda veri işleyerek üçüncü kişiler tarafından sunulan analiz hizmetleri kapsamında işlenmesi amacıyla sadece bu analiz hizmetlerinin gerektirdiği ölçüde kullanılması amacıyla üçüncü kişilere iletebilecektir. (Bkz: BÖLÜM 3 Çerez Politikası)
+
+5) İşlenen Veriler Kimlere hangi Amaç ile Aktarılabilecektir?
+
+5.1) Toplanan kişisel verileriniz, kullanıcı deneyiminizin geliştirilmesi (iyileştirme ve kişiselleştirme dâhil), güvenliğinizin temin edilmesi, hileli ya da izinsiz kullanımların tespit edilmesi, saha araştırması, Uygulama hizmetlerine ilişkin hataların giderilmesi ve işbu Aydınlatma metni ve Gizlilik politikasında yer alan amaçlardan herhangi birisini gerçekleştirebilmek için dış kaynak hizmet sağlayıcılarıyla, (SMS ve e-mail gönderen hizmet sağlayıcıları da dahildir)hosting servisleri, hukuk büroları gibi üçüncü kişiler ile paylaşabilecektir. Şirketimiz ve bağlı şirketlerimiz tarafından sunulan ürün ve hizmetlerden sizleri faydalandırmak için gerekli çalışmaların iş birimlerimiz tarafından yapılması, Şirketimiz ve bağlı Şirketlerimiz tarafından sunulan ürün ve hizmetlerin sizlerin beğeni, kullanım alışkanlıkları ve ihtiyaçlarına göre özelleştirilerek sizlere önerilmesi, şirketimiz ve bağlı şirketlerimizle iş ilişkisi içerisinde olan kişilerin hukuki ve ticari güvenliğinin temini, şirketimiz tarafından yürütülen iletişime yönelik idari operasyonları sağlamak, Şirkete ait lokasyonların fiziksel güvenliğini ve denetimini sağlamak, iş ortağı/müşteri/tedarikçi (yetkili veya çalışanları) değerlendirme süreçleri, itibar araştırma süreçleri, hukuki uyum süreci, denetim, mali işler vb.) Şirketimizin ticari ve iş stratejilerinin belirlenmesi ve uygulanması ile Şirketimizin insan kaynakları politikalarının yürütülmesinin temini amaçlarıyla iş ortaklarımıza, Topluluk Şirketlerine, Şirket yetkililerine, hissedarlarımıza, kanunen yetkili kamu kurumları ve özel kişilere, KVK Kanunu’nun 8. ve 9. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları çerçevesinde aktarılabilecektir.
+
+5.2) Veri Sahibi olarak, yukarıda belirtilen amaçlarla sınırlı olmak kaydı ile bahsi geçen üçüncü tarafların kişisel verilerinizi dünyanın her yerindeki sunucularında saklayabileceğini, bu hususa peşinen muvafakat ettiğinizi kabul edersiniz.
+
+ 5.3.) Veri Sahibi olarak, işbu Gizlilik Politikası’na konu bilgilerinizin tam, doğru ve güncel olduğunu, bu bilgilerde herhangi bir değişiklik olması halinde bunları derhal güncelleyeceğinizi taahhüt edersiniz. Güncel bilgileri sağlamamış olmanız halinde Site-Uygulama Sahibinin herhangi bir sorumluluğu olmayacaktır. 
+
+5.4) Veri Sahibi olarak, herhangi bir kişisel verinizin Site-Uygulama Sahibi tarafından kullanılamaması ile sonuçlanacak bir talepte bulunmanız halinde Mobil uygulamanın işleyişinden tam olarak faydalanamayabileceğini kabul eder ve bu kapsamda doğacak her türlü sorumluluğun size ait olacağını beyan edersiniz.
+
+6)Verilerinizi Ne Kadar Süreyle Saklanır?
+
+Site-Uygulama Sahibi ile paylaşmış olduğunuz kişisel verileriniz işbu Gizlilik Politikası kapsamında belirtilen amaçların gerektirdiği süre boyunca Site-Uygulama Sahibi’nin ilgili mevzuatta belirtilen zamanaşımı süreleri boyunca saklanabilir. Ayrıca, söz konusu kişisel verileriniz Site-Uygulama Sahibi ile aranızda doğabilecek herhangi bir uyuşmazlık durumunda, uyuşmazlık kapsamında gerekli savunmaların gerçekleştirilebilmesi amacıyla sınırlı olmak üzere saklanabilecektir.
+
+7)Verilerinizin Güvenliğini Nasıl Sağlıyoruz?
+
+7.1) Site-Uygulama Sahibi, ilgili mevzuatta belirlenen veya işbu metinde ifade edilen şartlarda, kişisel verilerin hukuka aykırı olarak işlenmemesini, kişisel verilere hukuka aykırı olarak erişilmemesini ve kişisel verilerin muhafazasını sağlamak amacıyla uygun şartlar maliyetler gözetilerek/ asgari güvenlik düzeyini temin etmeye yönelik gerekli teknik ve idari tedbirleri almayı, gerekli denetimleri yaptırmayı garanti etmektedir. Site-Uygulama Sahibi’nin gerekli bilgi güvenliği önlemlerini almasına karşın, Uygulama’ya ve sisteme yapılan saldırılar sonucunda gizli bilgilerin zarar görmesi veya üçüncü kişilerin eline geçmesi durumunda, Site-Uygulama Sahibi’nin herhangi bir sorumluluğu olmayacaktır.
+
+7.2.) Site-Uygulama Sahibi ayrıca, sizden elde ettiği kişisel verileri işbu Gizlilik Politikası ve Kişisel Verilerin Korunması Kanunu hükümlerine aykırı olarak başkasına açıklamamakta ve işleme amacı dışında kullanmamaktadır.
+
+7.3) Uygulama üzerinden başka uygulamalara link verilmesi halinde, Site-Uygulama Sahibi uygulamaların gizlilik politikaları ve içeriklerine yönelik herhangi bir sorumluluk taşımamaktadır ve bu metinleri incelemenizi önermektedir.
+
+8) Gizlilik Politikası’ndaki Değişiklikler İşbu Gizlilik Politikası değişen şartlara ve mevzuata uyum sağlamak amacıyla zaman zaman güncellenebilecektir.
+
+BÖLÜM 2 ) 6698 SAYILI KİŞİSEL VERİLERİN KORUNMASI KANUNU KAPSAMINDA BAŞVURU HAKKINIZ: Sayın Ziyaretçimiz ve Değerli Kullanıcılarımız; Kişisel verilerin işlemesine ilişkin olarak; isim, soyisim, rumuz, doğum tarihi, cinsiyet, medeni durum, adres, eğitim düzeyi, meslek/is, kullanıcı/müşteri bilgileri, özel-resmi kimlik, kimlik no. ve vergi bilgileri, fotoğraf, görüntü kayıtları ve çağrı merkezi görüşme ses kayıtları, fatura içerikleri, ödeme yöntemleri, şifre gibi gizli bilgiler hariç kart ve hesap bilgileri, cep ev ve faks numaraları, mail adresleri, elektronik ticari ve sair iletişimlere yaklaşım-ve eylemler, çeşitli amaçlarla kullanılan sabit ve mobil cihaz adları, türü, modeli ve kodları, tanımlama bilgileri (çerez, web tarayıcı işaretleri-bilgisi, IP vb) reklam tanıtıcısı bilgileri, sosyal medya profil ve hesap bilgileri-işlemleri ile konum verilerinizden oluşan kişisel verilerinizin toplanma yöntemi ve hukuki sebebi, hangi amaçla isleneceği ve kimlere hangi amaçla aktarılabileceği hususlarında tarafınıza bu metin kapsamında bilgi verilmiştir. KVKK kapsamında, kişisel verilerinize ilişkin olarak aşağıdaki haklara sahip olduğunuz haklar ise aşağıda sıralanmıştır.
+
+1-Kişisel veri işlenip işlenmediğini öğrenme,
+2-Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+3-Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+4-Kişisel verinizin işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde, verilerin silinmesini veya yok edilmesini isteme,
+5- Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme.
+6-Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,
+7-Talebinizce düzeltilen ya da silinen bilgilerinizin, eğer aktarılmış ise kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+8-İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+9- Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme, Tüm konularda Veri Sorumlusu ShowUp / AHMET ŞAHİN (Site-Uygulama / Uygulama Sahibi-Veri Sorumlusu) başvurabileceğinizi bilgilerinize sunarız. Talep halinde talep edenin hukuken muhafazası gereken haricindeki bilgileri, veri kayıt sisteminden silinir veya yok edilir veya kanuni haklar saklı kalmak kaydıyla anonim hale getirilir.
+ 
